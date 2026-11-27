@@ -4,7 +4,7 @@
 
 **AI Coding 工作流实战 · 独立开发降本折腾 · 开源效率脚本与排错笔记**
 
-[![Offline 2FA & Guides](https://img.shields.io/badge/Free_Tools-Offline_2FA_%26_15_Docs-0969DA?style=flat-square&logo=gitbook&logoColor=white)](https://young777.duckdns.org/?tab=help)
+[![Offline 2FA & Guides](https://img.shields.io/badge/Free_Tools-Offline_2FA_%26_Docs-0969DA?style=flat-square&logo=gitbook&logoColor=white)](https://young777.duckdns.org/?tab=help)
 [![Self-Service Portal](https://img.shields.io/badge/StarWay-Self--Service_Portal-10B981?style=flat-square&logo=lightning&logoColor=white)](https://young777.duckdns.org/)
 [![WeChat](https://img.shields.io/badge/WeChat-YyFBI007-07C160?style=flat-square&logo=wechat&logoColor=white)](#contact)
 [![QQ](https://img.shields.io/badge/QQ-2748178842-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](#contact)
